@@ -1,0 +1,190 @@
+"Period 1 Clusters"{
+	"0": [
+		"North Carolina",
+		"Iowa",
+		"Utah",
+		"Nebraska",
+		"California",
+		"Maryland",
+		"Idaho",
+		"Texas",
+		"Illinois",
+		"Arkansas"
+	],
+	"1": [
+		"New Jersey",
+		"New York",
+		"Louisiana"
+	],
+	"2": [
+		"New Hampshire",
+		"Oregon",
+		"Puerto Rico",
+		"Wyoming",
+		"Vermont",
+		"Hawaii",
+		"Alaska",
+		"West Virginia",
+		"Montana",
+		"Maine"
+	],
+	"3": [
+		"Arizona",
+		"Mississippi",
+		"Florida"
+	],
+	"4": [
+		"Colorado",
+		"Indiana",
+		"Kentucky",
+		"Kansas",
+		"Oklahoma",
+		"Wisconsin",
+		"New Mexico",
+		"Ohio",
+		"Missouri",
+		"Minnesota",
+		"Michigan",
+		"Washington",
+		"Virginia",
+		"North Dakota",
+		"Pennsylvania",
+		"South Dakota"
+	],
+	"5": [
+		"Georgia",
+		"District of Columbia",
+		"South Carolina",
+		"Tennessee",
+		"Delaware",
+		"Alabama",
+		"Connecticut",
+		"Nevada",
+		"Rhode Island",
+		"Massachusetts"
+	]
+}"Period 2 Clusters"{
+	"0": [
+		"Colorado",
+		"Oregon",
+		"Puerto Rico",
+		"Wyoming",
+		"Ohio",
+		"Hawaii",
+		"Alaska",
+		"West Virginia",
+		"Michigan",
+		"Washington",
+		"Pennsylvania"
+	],
+	"1": [
+		"Georgia",
+		"South Carolina",
+		"Tennessee",
+		"New Jersey",
+		"New York",
+		"Iowa",
+		"Utah",
+		"Nebraska",
+		"Arizona",
+		"Alabama",
+		"Louisiana",
+		"Mississippi",
+		"Idaho",
+		"Nevada",
+		"Rhode Island",
+		"Texas",
+		"Florida",
+		"Illinois",
+		"Arkansas"
+	],
+	"2": [
+		"District of Columbia",
+		"North Carolina",
+		"Indiana",
+		"Kentucky",
+		"Kansas",
+		"California",
+		"Delaware",
+		"Oklahoma",
+		"Maryland",
+		"New Mexico",
+		"Missouri",
+		"Minnesota",
+		"Connecticut",
+		"Virginia",
+		"Montana",
+		"Massachusetts"
+	],
+	"3": [
+		"Wisconsin",
+		"North Dakota",
+		"South Dakota"
+	],
+	"4": [
+		"New Hampshire",
+		"Vermont",
+		"Maine"
+	]
+}"Period 3 Clusters"{
+	"0": [
+		"Indiana",
+		"Tennessee",
+		"Iowa",
+		"Utah",
+		"Kansas",
+		"Nebraska",
+		"Arizona",
+		"Oklahoma",
+		"Wyoming",
+		"Alabama",
+		"Wisconsin",
+		"Louisiana",
+		"Missouri",
+		"Mississippi",
+		"Idaho",
+		"Nevada",
+		"Rhode Island",
+		"Montana",
+		"Illinois",
+		"Arkansas"
+	],
+	"1": [
+		"New Hampshire",
+		"Oregon",
+		"Puerto Rico",
+		"Vermont",
+		"Hawaii",
+		"Washington",
+		"Maine"
+	],
+	"2": [
+		"Georgia",
+		"Colorado",
+		"District of Columbia",
+		"South Carolina",
+		"North Carolina",
+		"New Jersey",
+		"New York",
+		"Kentucky",
+		"California",
+		"Delaware",
+		"Maryland",
+		"New Mexico",
+		"Ohio",
+		"Minnesota",
+		"Connecticut",
+		"Alaska",
+		"West Virginia",
+		"Michigan",
+		"Texas",
+		"Virginia",
+		"Florida",
+		"Massachusetts",
+		"Pennsylvania"
+	],
+	"3": [
+		"North Dakota",
+		"South Dakota"
+	]
+}
