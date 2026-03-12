@@ -1,6 +1,6 @@
 # Description
 
-This repository consists of analysis techniques on the John Hopkins COVID-19 case data to determine statistical properties of COVID trends across US states. Special thanks 
+This repository consists of analysis techniques on the John Hopkins COVID-19 case data to determine statistical properties of COVID trends across US states. This is used as the final project for the Spring 2021 course, IDS.012[J]: Statistics, Computation and Applications. Special thanks 
 to April Xie, Yun Eain, Tony Terresa, and Gabriel Cojocaru for making this project possible
 
 ## Libraries/Packages Required
